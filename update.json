@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.2/Talk2AI-0.0.2.dmg",
-    "releaseNotes": "更新内容：\n1. 新增自动更新功能\n2. 优化了图标显示\n3. 修复了连接问题",
+    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.1/DinoPal-0.0.1-arm64.dmg",
+    "releaseNotes": "Born",
     "forceUpdate": false
 }
