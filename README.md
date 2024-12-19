@@ -15,15 +15,9 @@ An AI voice assistant that lives in the Mac menu bar.
 ## 📥 Installation
 
 1. **Download and Install**: Download the DinoPal installation package from the Releases section and complete the installation.
-2. **"App is Damaged" Solution**:
-   - If you see a "The app is damaged" warning, don't worry. This happens because we don't have an official Apple Developer account yet, triggering macOS's built-in security.
-   - You can resolve this issue by running the following command in the Terminal:
-
-   ```bash
-   sudo xattr -d com.apple.quarantine /Applications/DinoPal.app 
-   ```
-
-   > ⚠️ **Note**: `/Applications/DinoPal.app` is the default app installation path. If you installed it elsewhere, adjust the path accordingly.
+2. **"Not Opened" Solution**:
+   - If you see a "Not Opened" warning, don't worry. This happens because the version you are installing has not been audited by Apple yet, triggering macOS's built-in security.
+   - You can allow it to open by going to the Mac's settings-privacy & security and manually allowing it to open. Here is a tutorial video:
 
 ---
 
