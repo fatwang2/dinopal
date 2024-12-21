@@ -9,7 +9,7 @@ An AI voice assistant that lives in the Mac menu bar.
 - **Real-time Video Chat**: Communicate via video for a more personal connection.
 - **Real-time Screen Sharing**: Share your screen for seamless collaboration.
 - **Real-time Online Search**: Instantly access the latest information from the web.
-
+- **Multilingual Mode**: Multiple languages, support your mother tongue.
 ---
 
 ## 📥 Installation

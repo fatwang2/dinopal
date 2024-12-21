@@ -1,6 +1,6 @@
 {
-    "version": "0.0.2",
-    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.2/DinoPal-0.0.2-arm64.dmg",
-    "releaseNotes": "What's New:\n1. Added Apple codesign for easier installation\n2. Added support for Intel version\n3. Enabled screen sharing with audio only\n4. Changed \"Github\" to \"GitHub\"",
+    "version": "0.0.3",
+    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.3/DinoPal-0.0.3-arm64.dmg",
+    "releaseNotes": "What's New:\n Support Multilingual Mode",
     "forceUpdate": false
 }
