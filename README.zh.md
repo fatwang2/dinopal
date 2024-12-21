@@ -20,6 +20,8 @@
    - 如果安装时出现“未打开”的提示，请不要慌张。这是因为你正在安装的版本还没经过 Apple 的公证审核，导致 Mac 触发了自我保护机制。
    - 你可以在 Mac 的设置-隐私安全性中手动允许打开，下面是一个教学视频：
 
+https://github.com/user-attachments/assets/ba0c0d96-ea93-4f11-b47f-3cde63eafccb
+
 ---
 
 ## 🚀 使用
