@@ -10,6 +10,20 @@ An AI voice assistant that lives in the Mac menu bar.
 - **Real-time Screen Sharing**: Share your screen for seamless collaboration.
 - **Real-time Online Search**: Instantly access the latest information from the web.
 - **Multilingual Mode**: Multiple languages, support your mother tongue.
+
+## 🤖 Agent Pals
+
+DinoPal offers various AI assistants, each with unique strengths and characteristics to meet different conversational needs.
+
+| Assistant Name | Language | Memory | Response Speed | Pricing |
+|---------------|----------|---------|----------------|---------|
+| English (Fast) | English | ❌ | Fast | Free |
+| Multilingual (Standard) | Multiple | ❌ | Standard | Free |
+| 中文 (Fast) | Chinese | ❌ | Fast | Pro |
+| English (Fast + Mem) | English | ✅ | Fast | Pro |
+| Multilingual (Standard + Mem) | Multiple | ✅ | Standard | Pro |
+| 中文 (Fast + Mem) | Chinese | ✅ | Fast | Pro |
+
 ---
 
 ## 📥 Installation
