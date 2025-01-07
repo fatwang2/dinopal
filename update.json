@@ -1,6 +1,6 @@
 {
-    "version": "0.0.3",
-    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.3/DinoPal-0.0.3-arm64.dmg",
-    "releaseNotes": "What's New:\n Support Multilingual Mode",
+    "version": "0.0.4",
+    "downloadUrl": "https://github.com/fatwang2/dinopal/releases/download/v0.0.4/DinoPal-0.0.4-arm64.dmg",
+    "releaseNotes": "What's New:\n Redisign the icon\nAdd Paid agents\n中文\n中文（长期记忆）\nEnglish(Memory)\nMultilingual(Memory)",
     "forceUpdate": false
 }
