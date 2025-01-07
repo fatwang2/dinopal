@@ -23,6 +23,7 @@ DinoPal 提供多种 AI 助手，每个助手都有其独特的专长和特点�
 | English (Fast + Mem) | 英语 | ✅ | 快速 | Pro |
 | Multilingual (Standard + Mem) | 多语言 | ✅ | 标准 | Pro |
 | 中文 (Fast + Mem) | 中文 | ✅ | 快速 | Pro |
+| English Learning (Fast) | 英语 | ❌ | 快速 | Pro |
 
 ---
 
