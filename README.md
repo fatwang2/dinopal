@@ -23,7 +23,7 @@ DinoPal offers various AI assistants, each with unique strengths and characteris
 | English (Fast + Mem) | English | ✅ | Fast | Pro |
 | Multilingual (Standard + Mem) | Multiple | ✅ | Standard | Pro |
 | 中文 (Fast + Mem) | Chinese | ✅ | Fast | Pro |
-| English Learning (Fast) | English | ❌ | Fast | Pro |
+| English Learning (Fast + Mem) | Multiple | ✅ | Fast | Pro |
 
 
 ---
