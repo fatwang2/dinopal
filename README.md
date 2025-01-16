@@ -19,6 +19,8 @@ DinoPal offers various AI assistants, each with unique strengths and characteris
 |---------------|----------|---------|----------------|---------|
 | English (Fast) | English | ❌ | Fast | Free |
 | Multilingual (Standard) | Multiple | ❌ | Standard | Free |
+| Multilingual (Voice Only) | Multiple | ❌ | Slow but stable | Free |
+| Storyteller (Slow) | English | ❌ | Slow | Free |
 | 中文 (Fast) | Chinese | ❌ | Fast | Pro |
 | English (Fast + Mem) | English | ✅ | Fast | Pro |
 | Multilingual (Standard + Mem) | Multiple | ✅ | Standard | Pro |
