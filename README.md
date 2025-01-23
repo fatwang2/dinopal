@@ -2,7 +2,7 @@
 
 [🇺🇸 English](README.md) | [🇨🇳 中文](README.zh.md)  
 
-An AI voice assistant that lives in the Mac menu bar.
+An AI voice and video assistant for Mac and iOS.
 
 ## 🦖 Features
 - **Real-time Voice Chat**: Enjoy smooth voice interactions with DinoPal.
@@ -16,22 +16,28 @@ An AI voice assistant that lives in the Mac menu bar.
 DinoPal offers various AI assistants, each with unique strengths and characteristics to meet different conversational needs.
 
 | Assistant Name | Language | Memory | Response Speed | Pricing |
-|---------------|----------|---------|----------------|---------|
+|---------------|----------|---------|----------------|----------|
 | English (Fast) | English | ❌ | Fast | Free |
 | Multilingual (Standard) | Multiple | ❌ | Standard | Free |
 | Multilingual (Voice Only) | Multiple | ❌ | Slow but stable | Free |
-| Storyteller (Slow) | English | ❌ | Slow | Free |
+| Storyteller (Standard) | English | ❌ | Slow | Free |
+| Storyteller (Fast) | English | ❌ | Fast | Pro |
 | 中文 (Fast) | Chinese | ❌ | Fast | Pro |
+| 实时翻译 (Fast) | Chinese | ❌ | Fast | Pro |
+| 讲故事 (Fast) | Chinese | ❌ | Fast | Pro |
 | English (Fast + Mem) | English | ✅ | Fast | Pro |
 | Multilingual (Standard + Mem) | Multiple | ✅ | Standard | Pro |
 | 中文 (Fast + Mem) | Chinese | ✅ | Fast | Pro |
 | English Learning (Fast + Mem) | Multiple | ✅ | Fast | Pro |
 
-
 ---
 
 ## 📥 Installation
 
+### iOS Version
+Join [TestFlight](https://testflight.apple.com/join/AQgDUqwY) to download and install.
+
+### Mac Version
 1. **Download and Install**: Download the DinoPal installation package from the Releases section and complete the installation.
 2. **"Not Opened" Solution**:
    - If you see a "Not Opened" warning, don't worry. This happens because the version you are installing has not been audited by Apple yet, triggering macOS's built-in security.
@@ -41,9 +47,12 @@ https://github.com/user-attachments/assets/ba0c0d96-ea93-4f11-b47f-3cde63eafccb
 
 ---
 
-
 ## 🚀 Usage
 
+### iOS Version
+Select your desired assistant and grant the necessary permissions to start using.
+
+### Mac Version
 1. **Launch DinoPal**:
    - Once installed, the DinoPal icon will appear in your Mac menu bar.
    - Click the icon and select your desired communication mode (voice, video, etc.) and grant the necessary permissions.
@@ -61,4 +70,4 @@ https://github.com/user-attachments/assets/ba0c0d96-ea93-4f11-b47f-3cde63eafccb
   
 ---
 
-🔋 **Powered by Google Gemini & Pipecat**
+🔋 Powered by Google Gemini & Pipecat

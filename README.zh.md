@@ -2,7 +2,7 @@
 
 [🇺🇸 English](README.md) | [🇨🇳 中文](README.zh.md)  
 
-一个生活在 Mac 状态栏上的 AI 语音小助手
+一个实时视频、语音对话 AI 助手，支持 Mac 和 iOS 
 
 ## 🦖 功能
 - **实时语音对话**：与 DinoPal 进行流畅的语音互动。
@@ -20,8 +20,11 @@ DinoPal 提供多种 AI 助手，每个助手都有其独特的专长和特点�
 | English (Fast) | 英语 | ❌ | 快速 | 免费 |
 | Multilingual (Standard) | 多语言 | ❌ | 标准 | 免费 |
 | Multilingual (Voice Only) | 多语言 | ❌ | 慢速但稳定 | 免费 |
-| Storyteller (Slow) | 英语 | ❌ | 慢速 | 免费 |
+| Storyteller (Standard) | 英语 | ❌ | 慢速 | 免费 |
+| Storyteller (Fast) | 英语 | ❌ | 快速 | Pro |
 | 中文 (Fast) | 中文 | ❌ | 快速 | Pro |
+| 实时翻译 (Fast) | 中文 | ❌ | 快速 | Pro |
+| 讲故事 (Fast) | 中文 | ❌ | 快速 | Pro |
 | English (Fast + Mem) | 英语 | ✅ | 快速 | Pro |
 | Multilingual (Standard + Mem) | 多语言 | ✅ | 标准 | Pro |
 | 中文 (Fast + Mem) | 中文 | ✅ | 快速 | Pro |
@@ -31,6 +34,10 @@ DinoPal 提供多种 AI 助手，每个助手都有其独特的专长和特点�
 
 ## 📥 安装
 
+### iOS 版本
+点击加入 [TestFlight](https://testflight.apple.com/join/AQgDUqwY)，下载安装
+
+### Mac版本
 1. **下载安装**：从 Release 中下载 DinoPal 安装包并进行安装。
 2. **“DinoPal 未打开弹窗” 解决方法**：
    - 如果安装时出现“未打开”的提示，请不要慌张。这是因为你正在安装的版本还没经过 Apple 的公证审核，导致 Mac 触发了自我保护机制。
@@ -42,6 +49,10 @@ https://github.com/user-attachments/assets/ba0c0d96-ea93-4f11-b47f-3cde63eafccb
 
 ## 🚀 使用
 
+### iOS 版本
+点击选择你想要对话的助手，并授予响应权限，即可使用
+
+### Mac版本
 1. **启动 DinoPal**：
    - 安装完成后，DinoPal 的图标会出现在 Mac 状态栏上。
    - 点击图标，选择你想要的通话方式（语音、视频等），并授予相应的权限。
