@@ -34,10 +34,10 @@ DinoPal 提供多种 AI 助手，每个助手都有其独特的专长和特点�
 
 ## 📥 安装
 
-### iOS 版本
-点击加入 [TestFlight](https://testflight.apple.com/join/AQgDUqwY)，下载安装
+### iOS
+点击 [App Store](https://apps.apple.com/us/app/dinopals/id6740522415)下载安装
 
-### Mac版本
+### Mac
 1. **下载安装**：从 Release 中下载 DinoPal 安装包并进行安装。
 2. **“DinoPal 未打开弹窗” 解决方法**：
    - 如果安装时出现“未打开”的提示，请不要慌张。这是因为你正在安装的版本还没经过 Apple 的公证审核，导致 Mac 触发了自我保护机制。
@@ -49,10 +49,10 @@ https://github.com/user-attachments/assets/ba0c0d96-ea93-4f11-b47f-3cde63eafccb
 
 ## 🚀 使用
 
-### iOS 版本
+### iOS
 点击选择你想要对话的助手，并授予响应权限，即可使用
 
-### Mac版本
+### Mac
 1. **启动 DinoPal**：
    - 安装完成后，DinoPal 的图标会出现在 Mac 状态栏上。
    - 点击图标，选择你想要的通话方式（语音、视频等），并授予相应的权限。

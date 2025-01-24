@@ -34,10 +34,10 @@ DinoPal offers various AI assistants, each with unique strengths and characteris
 
 ## 📥 Installation
 
-### iOS Version
-Join [TestFlight](https://testflight.apple.com/join/AQgDUqwY) to download and install.
+### iOS
+Click [App Store](https://apps.apple.com/us/app/dinopals/id6740522415) to download and install.
 
-### Mac Version
+### Mac
 1. **Download and Install**: Download the DinoPal installation package from the Releases section and complete the installation.
 2. **"Not Opened" Solution**:
    - If you see a "Not Opened" warning, don't worry. This happens because the version you are installing has not been audited by Apple yet, triggering macOS's built-in security.
